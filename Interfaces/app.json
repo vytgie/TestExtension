@@ -1,0 +1,49 @@
+{
+  "id": "5cb5f2dc-b7d8-42da-b9c9-7c6913ec65bb",
+  "name": "TestExtension - Interfaces",
+  "publisher": "Softera Baltic",
+  "version": "1.0.0.0",
+  "brief": "TestExtension - Interfaces",
+  "description": "TestExtension - Interfaces",
+  "privacyStatement": "https://www.softera.lt",
+  "EULA": "https://www.softera.lt",
+  "help": "https://www.softera.lt",
+  "contextSensitiveHelpUrl": "https://www.softera.lt",
+  "url": "https://www.softera.lt",
+  "logo": "../logo.png",
+  "dependencies": [
+    {
+      "id": "935ad796-5c09-4d6f-9268-994f4e93fe80",
+      "name": "TestExtension - MainApp",
+      "version": "1.0.0.0",
+      "publisher": "Softera Baltic"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "26.0.0.0",
+  "idRanges": [
+    {
+      "from": 60100,
+      "to": 60199
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "15.0",
+  "target": "Cloud",
+  "features": [
+    "TranslationFile",
+    "NoImplicitWith"
+  ],
+  "supportedLocales": [
+    "en-US",
+    "lt-LT"
+  ],
+  "applicationInsightsConnectionString": "InstrumentationKey=c1266739-6bd6-488c-9fea-2c08c47ebee9;IngestionEndpoint=https://northeurope-2.in.applicationinsights.azure.com/;LiveEndpoint=https://northeurope.livediagnostics.monitor.azure.com/",
+  "internalsVisibleTo": [],
+  "preprocessorSymbols": []
+}

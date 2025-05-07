@@ -1,0 +1,16 @@
+{
+    "name": "Custom AL rules",
+    "includedRuleSets": [
+        {
+            "action": "Default",
+            "path": "https://softerabalticeune.blob.core.windows.net/al-rulesets/PTE.al.ruleset.json"
+        }
+    ],
+    "rules": [
+        {
+            "id": "LC0068",
+            "action": "Hidden",
+            "justification": "Useless"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "mandatoryAffixes": [
+        "TE"
+    ],
+    "supportedCountries": [
+        "US",
+        "LT"
+    ],
+    "obsoleteTagMinAllowedMajorMinor": "24.0"
+}

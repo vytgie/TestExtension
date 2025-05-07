@@ -38,6 +38,7 @@ pageextension 60100 "TE DEV Page Ext." extends "TE DEV Page"
                 actionref("TE Example2ActionRef"; "TE Example 2 Action") { }
                 actionref("TE Example3ActionRef"; "TE Example 3 Action") { }
                 actionref("TE Example4ActionRef"; "TE Example 4 Action") { }
+                actionref("TE Example5ActionRef"; "TE Example 5 Action") { }
             }
         }
         addlast(Processing)
